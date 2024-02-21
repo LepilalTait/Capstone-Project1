@@ -1,2 +1,2 @@
-# Capstone-Project1
-My portfolio using html only
+# Online Resume
+An Online Resume using HTML only
